@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main(void){
-    printf ("Hola SSL!");
+
+int main(int argc, char *argv[]){
+    printf ("Hola mundo!\n");
     return 0;
 }
